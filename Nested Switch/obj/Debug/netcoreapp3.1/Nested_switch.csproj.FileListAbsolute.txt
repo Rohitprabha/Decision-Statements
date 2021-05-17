@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Nested_switch\bin\Debug\netcoreapp3.1\Nested_switch.exe
+C:\Users\Rohit Dasari\source\repos\Nested_switch\bin\Debug\netcoreapp3.1\Nested_switch.deps.json
+C:\Users\Rohit Dasari\source\repos\Nested_switch\bin\Debug\netcoreapp3.1\Nested_switch.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Nested_switch\bin\Debug\netcoreapp3.1\Nested_switch.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Nested_switch\bin\Debug\netcoreapp3.1\Nested_switch.dll
+C:\Users\Rohit Dasari\source\repos\Nested_switch\bin\Debug\netcoreapp3.1\Nested_switch.pdb
+C:\Users\Rohit Dasari\source\repos\Nested_switch\obj\Debug\netcoreapp3.1\Nested_switch.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Nested_switch\obj\Debug\netcoreapp3.1\Nested_switch.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Nested_switch\obj\Debug\netcoreapp3.1\Nested_switch.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Nested_switch\obj\Debug\netcoreapp3.1\Nested_switch.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Nested_switch\obj\Debug\netcoreapp3.1\Nested_switch.dll
+C:\Users\Rohit Dasari\source\repos\Nested_switch\obj\Debug\netcoreapp3.1\Nested_switch.pdb
+C:\Users\Rohit Dasari\source\repos\Nested_switch\obj\Debug\netcoreapp3.1\Nested_switch.genruntimeconfig.cache
